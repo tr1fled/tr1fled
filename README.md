@@ -19,8 +19,6 @@ There's not much to say, i'm just a software developer, and i'm open for comissi
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Contact
-### Email
-[tr1fled@l1thium.org](mailto:tr1fled@l1thium.org)
 
 ### Discord
 [search.censys.io](https://amitermed.com/zqqmYg)
