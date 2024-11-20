@@ -20,5 +20,3 @@ There's not much to say, i'm just a software developer, and i'm open for comissi
 
 ## Contact
 
-### Discord
-[search.censys.io](https://amitermed.com/zqqmYg)
