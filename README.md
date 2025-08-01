@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/tr1fled/count.svg)
 
-"i don't believe in ghosts or a goblin goul, the only thing i believe in is myself,,
+,,i don't believe in ghosts or a goblin goul, the only thing i believe in is myself"
 - marcus pumpkin
 
 ## Skills
