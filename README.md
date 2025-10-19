@@ -1,9 +1,8 @@
-<center><h1>👋 Hello, i'm tr1fled.</h1></center>
-
-![Visitor Count](https://profile-counter.glitch.me/tr1fled/count.svg)
-
-,,i don't believe in ghosts or a goblin goul, the only thing i believe in is myself"
-- marcus pumpkin
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/124415108?v=4" heigth=200 width=200 />
+<h1>tr1fled</h1>
+I do not believe in ghosts, or a goblin ghoul. The only thing I believe in is: myself
+</div>
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
